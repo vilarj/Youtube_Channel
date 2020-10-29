@@ -15,11 +15,11 @@ public class NumeroPar {
 
         // Chequeando si el numero es par o no
         if ( (n % 2) == 0) {
-            System.out.format ("%d es par", n);
+            System.out.format ("El numero %d es par", n);
         }
 
         else {
-            System.out.print(n + " es impar");
+            System.out.print("El numero " + n + " es impar");
         }
 
         // cerrando la clase Scanner
