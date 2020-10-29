@@ -15,7 +15,7 @@ public class NumeroPar {
 
         // Chequeando si el numero es par o no
         if ( (n % 2) == 0) {
-            System.out.format ("%n es par");
+            System.out.format ("%d es par", n);
         }
 
         else {
