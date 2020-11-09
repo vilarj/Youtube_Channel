@@ -28,6 +28,7 @@ public class Estatus {
         System.out.println("Introduzca su peso actual:");
         peso = input.nextDouble();
 
+        // Poniendo en Mayuscula el sexo del individuo
         sexo.toUpperCase();
 
         // Determinando el estatus dependiendo de la estatura y el peso del individuo
