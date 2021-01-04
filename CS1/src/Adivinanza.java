@@ -21,6 +21,7 @@ public class Adivinanza {
         Random aleatorio = new Random(); // Generando un numero aleatorio
         Scanner input = new Scanner(System.in);
         int vidas = 3, respuesta, target = aleatorio.nextInt(10);
+
         String mensaje = "Felicidades, lo has conseguido. Eres un mago!";
 
 
