@@ -24,7 +24,6 @@ public class Adivinanza {
 
         String mensaje = "Felicidades, lo has conseguido. Eres un mago!";
 
-
         System.out.println(target);
 
         System.out.print("Implementaremos un juego de adivinanzas donde\n" +
