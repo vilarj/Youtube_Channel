@@ -15,12 +15,14 @@ public class For {
 //            numero--;
 //        }
 
+        // Haciendo uso de nuestra mente para calcular el cuadrado de un numero
         for (int numero = 10; numero > 0; numero--) {
             System.out.println("##CUADRADO## " + numero + " elevado a 2 es: " + (numero*numero));
         }
 
         System.out.println();
 
+        // Haciendo uso de la libreria Math para calcular la raiz cuadrada de un numero
         for (int numero = 10; numero > 0; numero--) {
             System.out.println("##RAIZ CUADRADA## La raiz cuadrada de " + numero + " es: " + (Math.sqrt(numero)));
         }
