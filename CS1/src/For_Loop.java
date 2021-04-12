@@ -22,7 +22,7 @@
  *********
  */
 
-public class For_Menu {
+public class For_Loop {
     public static void main(String[] args) {
         String objeto = "*";
 
